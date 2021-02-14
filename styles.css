@@ -1,0 +1,32 @@
+h1{
+  font-family: 'Bungee Shade', cursive;
+}
+
+h4{
+  font-family: 'Bungee Inline', cursive;
+}
+
+li {
+  font-family: Georgia;
+}
+
+ul ul {
+  list-style-type: circle;
+}
+
+#ingredients li {
+  font-family: Arial;
+}
+
+#ingredients li span {
+  font-style: italic;
+  color: #999;
+}
+
+#equipment li:nth-child(2) {
+  color: red;
+}
+
+#directions li:nth-child(4) {
+  color: red;
+}
